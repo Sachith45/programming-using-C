@@ -5,3 +5,4 @@
 2.1 and 2.2 represent how to work postfrix and prefix operator.<br>
 2.3 shows logical operator.<br>
 2.4 shows how to get power of any number in c.<br>
+How to create multipication table using for loop.<br>
