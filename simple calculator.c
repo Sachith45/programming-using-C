@@ -4,7 +4,7 @@ int main()
     char c;
     float a,b,result;
 
-    printf("Enter operote you want:");
+    printf("Enter operoter you want('+','-','*','/'):");
     scanf("%c",&c);
 
     printf("Enter first value:");
