@@ -7,3 +7,4 @@
 2.4 shows how to get power of any number in c.<br>
 How to create multipication table using for loop.<br>
 create simple calculator using c.<br>
+2.5 how to work c operators precedence.<br>
