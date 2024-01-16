@@ -11,3 +11,4 @@ create simple calculator using C.<br>
 add code how to find BMI using C.<br>
 add code ASCII value of usercase and uppercase letter in C.<br>
 how to find vowel using function in c.<br>
+add simple code using c++ simple calculator using switch case.<br>
